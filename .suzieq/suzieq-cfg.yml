@@ -1,0 +1,6 @@
+data-directory: /home/jpiet/parquet-out
+service-directory: /home/jpiet/suzieq/config
+schema-directory: /home/jpiet/suzieq/config/schema
+temp-directory: /tmp/suzieq
+# kafka-servers: localhost:9093
+logging-level: WARNING
