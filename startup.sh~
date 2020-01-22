@@ -1,6 +1,0 @@
-sudo apt update --force-yes
-sudo apt upgrade --force-yes
-sudo apt install vagrant --force-yes
-sudo apt install qemu-kvm --force-yes
-sudo apt install python3-pip
-sudo apt
